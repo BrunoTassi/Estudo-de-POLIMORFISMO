@@ -1,0 +1,8 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\CalculoDEimc\CalculoDEimc\bin\Debug\CalculoDEimc.exe.config
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\CalculoDEimc\CalculoDEimc\bin\Debug\CalculoDEimc.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\CalculoDEimc\CalculoDEimc\bin\Debug\CalculoDEimc.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\CalculoDEimc\CalculoDEimc\obj\Debug\CalculoDEimc.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\CalculoDEimc\CalculoDEimc\obj\Debug\CalculoDEimc.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\CalculoDEimc\CalculoDEimc\obj\Debug\CalculoDEimc.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\CalculoDEimc\CalculoDEimc\obj\Debug\CalculoDEimc.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\CalculoDEimc\CalculoDEimc\obj\Debug\CalculoDEimc.pdb
