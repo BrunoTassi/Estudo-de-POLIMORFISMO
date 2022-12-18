@@ -1,8 +1,0 @@
-C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\ConversorDeTemperatura.exe.config
-C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\ConversorDeTemperatura.exe
-C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\ConversorDeTemperatura.pdb
-C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\ConversorDeTemperatura.csproj.AssemblyReference.cache
-C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\ConversorDeTemperatura.csproj.SuggestedBindingRedirects.cache
-C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\ConversorDeTemperatura.csproj.CoreCompileInputs.cache
-C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\ConversorDeTemperatura.exe
-C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\ConversorDeTemperatura.pdb
